@@ -1,2 +1,2 @@
 # vstudio
-VStudio 3D object libray
+VStudio 3D object platform
